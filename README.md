@@ -23,17 +23,17 @@ Now, I'm fascinated by the potential of 🪄 AI + Sys. I also found ⚒️ Compi
 </p>
 
 <p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=nextjs&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-Next.js-171717?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-00BCD4?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-5C6BC0?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-4FC3F7?style=flat-square&logo=matplotlib&logoColor=white" />
 </p>
 
 <p>
