@@ -3,7 +3,7 @@
 <h3 align="center">🎯 I'm working towards a career in Software Engineering</h3>
 
 I first studied 🌐 web development, which led me to 💻 freelancing and then to 💼 internships.  
-Now, I'm fascinated by the potential of 🪄 AI + Sys. I also found ⚒️ Compilers interesting.  
+
 👀 Looking for a full-time job in Canada / US starting in Summer 2025.
 
 <h3 align="center">🖥️ I code with ...</h3>
