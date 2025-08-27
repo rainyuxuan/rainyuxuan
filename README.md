@@ -1,12 +1,10 @@
 <h2 align="center">👋 Greetings from <i>Liu Yuxuan</i></h2>
 
-<h3 align="center">🎯 I'm working towards a career in Software Engineering</h3>
+<h3 align="center">♾️ I'm a Software Engineer at Meta </h3>
 
-I first studied 🌐 web development, which led me to 💻 freelancing and then to 💼 internships.  
+I enjoy 🌐 Web Development and 🤖 Robot Learning. I'm exploring the complex 🎯 Ads Targeting system used by Instagram.
 
-👀 Looking for a full-time job in Canada / US starting in Summer 2025.
-
-<h3 align="center">🖥️ I code with ...</h3>
+<h3 align="center">🖥️ I code with ... </h3>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
@@ -54,7 +52,7 @@ I first studied 🌐 web development, which led me to 💻 freelancing and then 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#cloud -->
 <!-- https://github.com/Ileriayo/markdown-badges/blob/master/README.md -->
 
-<h3 align="center">🦫 I'm a recent grad from the University of Toronto</h3>
+<h3 align="center">🦫 I'm a recent grad from the University of Toronto and Cornell University 🐻</h3>
 
 COVID separated us, but I enjoyed ✨ clubs and 🧑‍💻 hackathons during my university. They connected me to my peers.
 
